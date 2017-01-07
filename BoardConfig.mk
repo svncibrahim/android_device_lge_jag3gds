@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2015 The CyanogenMod Project
+# Copyright (C) 2017 The LineageOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -46,7 +46,7 @@ WIFI_DRIVER_FW_PATH_AP := "/system/etc/firmware/fw_bcmdhd_apsta.bin"
 WIFI_DRIVER_FW_PATH_STA := "/system/etc/firmware/fw_bcmdhd.bin"
 
 # Kernel
-TARGET_KERNEL_CONFIG := jag3gds_cyanogenmod_defconfig
+TARGET_KERNEL_CONFIG := jag3gds_lineageos_defconfig
 
 # Filesystem
 BOARD_BOOTIMAGE_PARTITION_SIZE := 0x00D00000
